@@ -7,7 +7,7 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "node -i -e '$(< ./index.js)'"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Gideon Addo",
